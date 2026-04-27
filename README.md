@@ -1,16 +1,6 @@
 **Devbored RP2040**
 
-I finally finished my first PCB! It’s a Devboard using the RP2040 chip. It was more comples than I thought it would be, but I got it working and learned alot from it.
+I finally finished my first PCB! It’s a Devboard using the RP2040 chip. It was more comples than I thought it would be, but I got it working and learned alot from it.I wanted to learn how to make a PCB but I often get bored when I am not intrusted in the project or it feels too 'beginner' so i decided to jump in the middle end of the pool and make a Devbored!!
 
+This project is a custom RP2040 Devboard. It’s a 2-layer PCB designed in KiCad that breaks out the pins for the RP2040 chip and includes all the necessary parts like the crystal, power whires, and a USB-C port.
 
-**Struggles:**
-
-Whiring:
-Wiring was definitely the hardest part. I ran into a lot of tangles and ended up re-wiring this board about 3 times before I was happy with it.
-
-Layer Management:
-On my first two attempts, I overused the blue layer (Bottom Copper) and made the ground plane a mess. The 3rd attempt finally worked out—everything is much cleaner now!
-
-Complexity: 
-My original idea included a 3x3 LED matrix. After a few layout attempts, I realized it was too complex for my first build. I decided to delete the LEDs so I could focus on getting the bored working first.
-<img width="289" height="563" alt="image" src="https://github.com/user-attachments/assets/2430189c-fe6e-4322-82ea-eb9c8f60d0c5" /><img width="370" height="744" alt="image" src="https://github.com/user-attachments/assets/da5d7a89-77f7-4332-8e21-004814ab9d30" />
