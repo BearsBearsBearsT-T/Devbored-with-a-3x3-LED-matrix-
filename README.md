@@ -12,7 +12,7 @@ This project is a custom RP2040 Devboard. It’s a 2-layer PCB designed in KiCad
 **no errors :)))**
 <img width="1543" height="833" alt="Screenshot 2026-04-27 120632" src="https://github.com/user-attachments/assets/11371bda-7d95-43cd-90d1-be3566be6fb0" />
 
-**BOM:**
+**BOM for PCB:**
 
 [DevboredBOM.csv](https://github.com/user-attachments/files/27150701/DevboredBOM.csv)
 Reference	Value	Datasheet	Footprint	Qty	DNP
