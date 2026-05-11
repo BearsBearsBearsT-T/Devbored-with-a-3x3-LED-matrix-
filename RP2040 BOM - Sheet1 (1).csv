@@ -1,0 +1,24 @@
+Designator,,Quantity,Value,Link,Price
+"C1,C2,C5,C6,C7,C8,C9,C11,C17",,9,0.1uf,https://www.lcsc.com/product-detail/C60474.html?spm=wm.mxq.bom.0.xh___wm.bjg.btn.cre&lcsc_vid=RgVfU1FeQARWU1JRRVNfAVFUFgJaVVVTE1lZBAUFEVYxVlNRT1VdX1BTR1FcXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,$0.11
+"C10, C12, C26",,3,1uf,https://www.lcsc.com/product-detail/C29266.html?spm=wm.mxq.bom.1.xh___wm.bjg.btn.cre&lcsc_vid=RgVfU1FeQARWU1JRRVNfAVFUFgJaVVVTE1lZBAUFEVYxVlNRT1VdX1BTR1FcXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,$0.30
+"C13, C14",,2,10uf,https://www.lcsc.com/product-detail/C96446.html?spm=wm.mxq.bom.2.xh___wm.bjg.btn.cre&lcsc_vid=RgVfU1FeQARWU1JRRVNfAVFUFgJaVVVTE1lZBAUFEVYxVlNRT1VdX1BTR1FcXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,$0.45
+"C15, C16",,2,15pf,https://www.lcsc.com/product-detail/C86285.html?spm=wm.mxq.bom.3.xh___wm.bjg.btn.cre&lcsc_vid=RgVfU1FeQARWU1JRRVNfAVFUFgJaVVVTE1lZBAUFEVYxVlNRT1VdX1BTR1FcXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,$0.39
+J1,,1,USB-C receptical,https://www.lcsc.com/product-detail/C165948.html?s_z=n_q_Type-C-31-M-12&spm=wm.fly.bg.0.xh&lcsc_vid=RgVfU1FeQARWU1JRRVNfAVFUFgJaVVVTE1lZBAUFEVYxVlNRT1VaV1dUQ1NWVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,$0.85
+"J2,J3",,2,Conn1x20_pins,https://www.lcsc.com/product-detail/C5156618.html?s_z=n_q_C5156618&globalKeyword=C5156618,$0.47
+J4,,1,PinScoket 1x3,https://www.lcsc.com/product-detail/C146243.html?s_z=n_q_C146243&globalKeyword=C146243,$0.73
+"R1, R2",,2,5.1k,https://www.lcsc.com/product-detail/C105872.html?spm=wm.mxq.bom.7.xh___wm.bjg.btn.cre&lcsc_vid=RgVfU1FeQARWU1JRRVNfAVFUFgJaVVVTE1lZBAUFEVYxVlNRT1VdX1BTR1FcXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,$0.90
+"R18, R5",,2,1k,https://www.lcsc.com/product-detail/C106235.html?spm=wm.mxq.bom.8.xh___wm.bjg.btn.cre&lcsc_vid=RgVfU1FeQARWU1JRRVNfAVFUFgJaVVVTE1lZBAUFEVYxVlNRT1VdX1BTR1FcXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,$0.80
+"R3, R4",,2,27om,https://www.lcsc.com/product-detail/C352233.html?s_z=n_q_C352233&globalKeyword=C352233,$0.50
+R6,,1,10k,https://www.lcsc.com/product-detail/C60490.html?spm=wm.mxq.bom.10.xh___wm.bjg.btn.cre&lcsc_vid=RgVfU1FeQARWU1JRRVNfAVFUFgJaVVVTE1lZBAUFEVYxVlNRT1VdX1BTR1FcXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,$0.80
+SW1,,1,Sw_push,https://www.lcsc.com/product-detail/C115357.html?s_z=n_q_C115357&globalKeyword=C115357,$0.66
+U1,,1,RP2040,https://www.lcsc.com/product-detail/C2040.html?s_z=n_q_C2040&globalKeyword=C2040,$0.95
+U3,,1,W25Q128JVS,https://www.lcsc.com/product-detail/C2866166.html?s_z=n_q_C2866166&globalKeyword=C2866166,$2.53
+U4,,1,APS1604M-3SQRx-ZR,https://www.lcsc.com/product-detail/C22423595.html?s_z=n_q_p_APS1604M-3SQRx-ZR&spm=wm.ssy.bg.0.xh&lcsc_vid=RgVfU1FeQARWU1JRRVNfAVFUFgJaVVVTE1lZBAUFEVYxVlNRT1VaVlxURVhXXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXR1JcSQwSGg0%3D,$2.31
+U5,,1,NCP1117-3.3_SOT223,https://www.lcsc.com/product-detail/C20546.html?spm=wm.mxq.bom.15.xh___wm.bjg.btn.cre&lcsc_vid=RgVfU1FeQARWU1JRRVNfAVFUFgJaVVVTE1lZBAUFEVYxVlNRT1VdX1BTR1FcXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,$1.59
+Y1,,1,Crystal_SMD_3225-4Pin_3.2x2.5mm,https://www.lcsc.com/product-detail/C9002.html?spm=wm.mxq.bom.16.xh___wm.bjg.btn.cre&lcsc_vid=RgVfU1FeQARWU1JRRVNfAVFUFgJaVVVTE1lZBAUFEVYxVlNRT1VdX1BTR1FcXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,$0.74
+,,,,,
+Merchandice Toatal,,$12.57,,,
+Handeling fee,,$3,,,
+Shipping,,$9.26,,,
+,,,,,
+Toatal ,,$24.73,,,
