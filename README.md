@@ -14,6 +14,11 @@ This project is a custom RP2040 Devboard. It’s a 2-layer PCB designed in KiCad
 
 <img width="410" height="601" alt="Screenshot 2026-05-02 122900" src="https://github.com/user-attachments/assets/f80114cf-0023-4e2e-a850-c42b2b696782" />
 
+<img width="597" height="615" alt="Screenshot 2026-05-13 162240" src="https://github.com/user-attachments/assets/16af757a-84bb-423e-a0be-8fbc3cb80637" />
+
+<img width="930" height="653" alt="Screenshot 2026-05-13 162331" src="https://github.com/user-attachments/assets/82dc20ee-e498-4c3d-a23b-079f140c7388" />
+
+
 
 **BOM for PCB:**
 
